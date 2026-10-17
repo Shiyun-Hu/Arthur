@@ -1,0 +1,32 @@
+items=10453 tasks=220 positive_items=10359 negative_items=94
+closed_level=2: 6797 (65.0%), positive-point share 65.9%
+closed_level=1: 2816 (26.9%), positive-point share 23.9%
+closed_level=0: 840 (8.0%), positive-point share 10.2%
+check_type x closed_level:
+closed_level    0     1     2    All
+check_type                          
+FACT            0  2252  1979   4231
+FMT             0   411  2603   3014
+OPEN          517     4     0    521
+ORD            13    25    66    104
+QUAL          310     3     0    313
+VAL             0   121  2149   2270
+All           840  2816  6797  10453
+is_narrative=1: 70 (0.67%), tasks with >=1: 48 / 220, positive-point share 0.61%
+narrative_type counts: {'FRAME': 31, 'ORDER': 30, 'FLOW': 9}
+is_closed x is_narrative:
+is_narrative      0   1    All
+is_closed                     
+0              3615  41   3656
+1              6768  29   6797
+All           10383  70  10453
+narrative x closed_level:
+closed_level    0   1   2
+narrative_type           
+FLOW            9   0   0
+FRAME           9  14   8
+ORDER           1   8  21
+per-task closed share: median 67.7%, min 8.6%, max 100.0%, tasks >=90%: 54, tasks <50%: 65
+--- agreement ---
+pass1 vs pass2 is_narrative: agree 99.89%, kappa 0.914; both=1 59, p1 only 7, p2 only 4
+pass1 is_closed(v1, lenient) vs pass2 level>=1: agree 97.53%, kappa 0.831

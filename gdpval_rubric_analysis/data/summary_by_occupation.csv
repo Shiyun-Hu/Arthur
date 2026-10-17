@@ -1,0 +1,45 @@
+sector,occupation,tasks,items,closed_items,closed_pct,closed_points_pct,level1_pct,level0_pct,narrative_items,narrative_pct,tasks_with_narrative
+Finance and Insurance,Personal Financial Advisors,5.0,243.0,59.0,24.3,27.4,66.3,9.5,3.0,1.23,1.0
+"Professional, Scientific, and Technical Services",Lawyers,5.0,302.0,99.0,32.8,33.4,61.6,5.6,1.0,0.33,1.0
+Wholesale Trade,Sales Managers,5.0,201.0,70.0,34.8,33.3,45.3,19.9,4.0,1.99,3.0
+Finance and Insurance,Customer Service Representatives,5.0,263.0,96.0,36.5,37.6,55.9,7.6,0.0,0.0,0.0
+Information,Film and Video Editors,5.0,180.0,74.0,41.1,45.1,42.2,16.7,5.0,2.78,3.0
+Information,Editors,5.0,256.0,106.0,41.4,42.4,49.2,9.4,3.0,1.17,1.0
+Retail Trade,Private Detectives and Investigators,5.0,192.0,86.0,44.8,44.6,45.3,9.9,5.0,2.6,3.0
+Manufacturing,Buyers and Purchasing Agents,5.0,268.0,121.0,45.1,47.3,46.3,8.6,1.0,0.37,1.0
+Information,"News Analysts, Reporters, and Journalists",5.0,224.0,104.0,46.4,45.1,38.4,15.2,4.0,1.79,2.0
+Manufacturing,Industrial Engineers,5.0,240.0,125.0,52.1,52.2,42.9,5.0,4.0,1.67,2.0
+Government,First-Line Supervisors of Police and Detectives,5.0,232.0,123.0,53.0,59.0,34.9,12.1,1.0,0.43,1.0
+Government,"Child, Family, and School Social Workers",5.0,304.0,165.0,54.3,56.0,26.0,19.7,3.0,0.99,2.0
+Finance and Insurance,Financial and Investment Analysts,5.0,178.0,102.0,57.3,63.0,30.3,12.4,1.0,0.56,1.0
+Information,Audio and Video Technicians,5.0,191.0,111.0,58.1,52.3,38.2,3.7,0.0,0.0,0.0
+Manufacturing,Mechanical Engineers,5.0,282.0,165.0,58.5,59.2,29.4,12.1,2.0,0.71,2.0
+Health Care and Social Assistance,Medical and Health Services Managers,5.0,228.0,136.0,59.6,59.3,31.6,8.8,1.0,0.44,1.0
+Retail Trade,First-Line Supervisors of Retail Sales Workers,5.0,165.0,99.0,60.0,64.3,33.9,6.1,1.0,0.61,1.0
+"Professional, Scientific, and Technical Services",Software Developers,5.0,232.0,142.0,61.2,71.2,37.5,1.3,0.0,0.0,0.0
+Information,Producers and Directors,5.0,194.0,122.0,62.9,58.5,32.0,5.2,1.0,0.52,1.0
+Finance and Insurance,"Securities, Commodities, and Financial Services Sales Agents",5.0,231.0,151.0,65.4,63.5,22.9,11.7,2.0,0.87,2.0
+Government,Compliance Officers,5.0,168.0,110.0,65.5,66.2,22.6,11.9,0.0,0.0,0.0
+"Professional, Scientific, and Technical Services",Computer and Information Systems Managers,5.0,304.0,201.0,66.1,65.4,22.0,11.8,4.0,1.32,1.0
+Real Estate and Rental and Leasing,Real Estate Sales Agents,5.0,204.0,137.0,67.2,71.3,27.0,5.9,0.0,0.0,0.0
+Government,Recreation Workers,5.0,222.0,150.0,67.6,67.2,27.0,5.4,1.0,0.45,1.0
+Government,Administrative Services Managers,5.0,171.0,120.0,70.2,66.4,21.1,8.8,0.0,0.0,0.0
+"Professional, Scientific, and Technical Services",Project Management Specialists,5.0,256.0,180.0,70.3,66.0,24.2,5.5,2.0,0.78,1.0
+Wholesale Trade,First-Line Supervisors of Non-Retail Sales Workers,5.0,283.0,203.0,71.7,75.2,17.3,11.0,1.0,0.35,1.0
+Retail Trade,General and Operations Managers,5.0,199.0,145.0,72.9,70.2,18.1,9.0,3.0,1.51,2.0
+Health Care and Social Assistance,Nurse Practitioners,5.0,293.0,215.0,73.4,69.3,16.7,9.9,3.0,1.02,3.0
+Health Care and Social Assistance,First-Line Supervisors of Office and Administrative Support Workers,5.0,300.0,222.0,74.0,76.5,22.3,3.7,2.0,0.67,1.0
+Retail Trade,Pharmacists,5.0,241.0,180.0,74.7,76.7,16.2,9.1,0.0,0.0,0.0
+Real Estate and Rental and Leasing,"Property, Real Estate, and Community Association Managers",5.0,199.0,153.0,76.9,75.4,17.1,6.0,1.0,0.5,1.0
+Manufacturing,"Shipping, Receiving, and Inventory Clerks",5.0,295.0,228.0,77.3,81.5,19.7,3.1,1.0,0.34,1.0
+Finance and Insurance,Financial Managers,5.0,356.0,277.0,77.8,80.9,10.4,11.8,3.0,0.84,1.0
+Real Estate and Rental and Leasing,Real Estate Brokers,5.0,181.0,141.0,77.9,72.9,19.9,2.2,0.0,0.0,0.0
+Health Care and Social Assistance,Registered Nurses,5.0,223.0,174.0,78.0,80.2,18.4,3.6,1.0,0.45,1.0
+Real Estate and Rental and Leasing,Concierges,5.0,179.0,140.0,78.2,75.6,14.5,7.3,3.0,1.68,3.0
+Health Care and Social Assistance,Medical Secretaries and Administrative Assistants,5.0,217.0,175.0,80.6,77.2,17.1,2.3,0.0,0.0,0.0
+Manufacturing,First-Line Supervisors of Production and Operating Workers,5.0,263.0,221.0,84.0,84.2,10.3,5.7,0.0,0.0,0.0
+Wholesale Trade,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",5.0,266.0,224.0,84.2,84.9,11.7,4.1,1.0,0.38,1.0
+Real Estate and Rental and Leasing,Counter and Rental Clerks,5.0,270.0,235.0,87.0,89.0,7.4,5.6,2.0,0.74,2.0
+Wholesale Trade,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",5.0,230.0,207.0,90.0,87.1,4.3,5.7,0.0,0.0,0.0
+Wholesale Trade,Order Clerks,5.0,263.0,250.0,95.1,92.6,3.0,1.9,0.0,0.0,0.0
+"Professional, Scientific, and Technical Services",Accountants and Auditors,5.0,264.0,253.0,95.8,92.7,2.3,1.9,0.0,0.0,0.0
