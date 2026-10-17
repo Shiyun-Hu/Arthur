@@ -12,21 +12,32 @@ ORD            13    25    66    104
 QUAL          310     3     0    313
 VAL             0   121  2149   2270
 All           840  2816  6797  10453
-is_narrative=1: 70 (0.67%), tasks with >=1: 48 / 220, positive-point share 0.61%
-narrative_type counts: {'FRAME': 31, 'ORDER': 30, 'FLOW': 9}
+is_narrative=1: 64 (0.61%), tasks with >=1: 47 / 220, positive-point share 0.57%
+narrative_type counts: {'FRAME': 31, 'ORDER': 24, 'FLOW': 9}
 is_closed x is_narrative:
 is_narrative      0   1    All
 is_closed                     
 0              3615  41   3656
-1              6768  29   6797
-All           10383  70  10453
+1              6774  23   6797
+All           10389  64  10453
 narrative x closed_level:
 closed_level    0   1   2
 narrative_type           
 FLOW            9   0   0
 FRAME           9  14   8
-ORDER           1   8  21
+ORDER           1   8  15
 per-task closed share: median 67.7%, min 8.6%, max 100.0%, tasks >=90%: 54, tasks <50%: 65
 --- agreement ---
 pass1 vs pass2 is_narrative: agree 99.89%, kappa 0.914; both=1 59, p1 only 7, p2 only 4
 pass1 is_closed(v1, lenient) vs pass2 level>=1: agree 97.53%, kappa 0.831
+pass3 reliability sample n=600
+  closed_level exact agree 90.2%, kappa 0.796
+  is_closed (level 2) agree 91.2%, kappa 0.801; pass2 rate 67.3% vs pass3 rate 66.5%
+  level>=1 agree 98.7%, kappa 0.908
+  confusion (rows=pass2/final, cols=pass3):
+p3_closed_level   0    1    2
+closed_level                 
+0                43    0    1
+1                 6  123   23
+2                 1   28  375
+  is_narrative final vs pass3: agree 99.8%, final=1 5, pass3=1 6, both 5

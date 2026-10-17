@@ -14,7 +14,8 @@ items both passes left at 0. Each candidate was read in full and assigned under 
 Excluded: boilerplate placement (title, headline, TOC, greeting, sign-off, courteous closing,
 logos, links, references, appendix), data/tab/column/row/field order, chart ranking order,
 real-world plan or process sequencing, bare existence of a named section, content merely located
-in a section.
+in a section, and slide/page-number slot checks ("Slide N's title is X") where the number only
+locates the title/content being checked.
 """
 
 NARRATIVE = {
@@ -22,11 +23,10 @@ NARRATIVE = {
     '050-004': 'FLOW', '050-008': 'FLOW', '050-014': 'FLOW', '055-028': 'FLOW', '068-049': 'FLOW',
     '126-003': 'FLOW', '126-005': 'FLOW', '128-028': 'FLOW', '175-011': 'FLOW',
     # ORDER
-    '023-003': 'ORDER', '024-004': 'ORDER', '032-056': 'ORDER', '032-057': 'ORDER',
-    '032-058': 'ORDER', '032-059': 'ORDER', '036-010': 'ORDER', '037-002': 'ORDER',
+    '023-003': 'ORDER', '024-004': 'ORDER', '036-010': 'ORDER', '037-002': 'ORDER',
     '040-001': 'ORDER', '055-021': 'ORDER', '058-021': 'ORDER', '068-005': 'ORDER',
-    '081-007': 'ORDER', '098-034': 'ORDER', '103-020': 'ORDER', '104-001': 'ORDER',
-    '104-016': 'ORDER', '104-049': 'ORDER', '111-071': 'ORDER', '112-002': 'ORDER',
+    '081-007': 'ORDER', '098-034': 'ORDER', '103-020': 'ORDER', '104-016': 'ORDER',
+    '111-071': 'ORDER', '112-002': 'ORDER',
     '130-002': 'ORDER', '131-003': 'ORDER', '133-005': 'ORDER', '140-034': 'ORDER',
     '147-005': 'ORDER', '147-019': 'ORDER', '159-002': 'ORDER', '159-014': 'ORDER',
     '180-008': 'ORDER', '195-004': 'ORDER',
@@ -58,4 +58,10 @@ OVERRIDES = {
     '140-030': (1, 'both=0: intro outlining concepts to be covered = roadmap (cf. 163-047)'),
     '148-040': (1, 'both=0: conclusion synthesizes the observations (cf. 149-033)'),
     '193-028': (1, 'both=0: executive summary / closing section summarizing recommendations'),
+    '032-056': (0, 'both=1: slide-number slot check of a title (cf. 159-005..159-035, both=0)'),
+    '032-057': (0, 'both=1: slide-number slot check of a title (cf. 159-005..159-035, both=0)'),
+    '032-058': (0, 'both=1: slide-number slot check of a title (cf. 159-005..159-035, both=0)'),
+    '032-059': (0, 'both=1: slide-number slot check of a title (cf. 159-005..159-035, both=0)'),
+    '104-001': (0, 'both=1: slide-number slot check of a title (cf. 159-005 "Slide 2 title indicates an overview")'),
+    '104-049': (0, 'both=1: final-slide slot check of specific timeline content, not a closing synthesis'),
 }

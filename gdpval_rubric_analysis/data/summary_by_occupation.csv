@@ -8,7 +8,7 @@ Information,Editors,5.0,256.0,106.0,41.4,42.4,49.2,9.4,3.0,1.17,1.0
 Retail Trade,Private Detectives and Investigators,5.0,192.0,86.0,44.8,44.6,45.3,9.9,5.0,2.6,3.0
 Manufacturing,Buyers and Purchasing Agents,5.0,268.0,121.0,45.1,47.3,46.3,8.6,1.0,0.37,1.0
 Information,"News Analysts, Reporters, and Journalists",5.0,224.0,104.0,46.4,45.1,38.4,15.2,4.0,1.79,2.0
-Manufacturing,Industrial Engineers,5.0,240.0,125.0,52.1,52.2,42.9,5.0,4.0,1.67,2.0
+Manufacturing,Industrial Engineers,5.0,240.0,125.0,52.1,52.2,42.9,5.0,2.0,0.83,2.0
 Government,First-Line Supervisors of Police and Detectives,5.0,232.0,123.0,53.0,59.0,34.9,12.1,1.0,0.43,1.0
 Government,"Child, Family, and School Social Workers",5.0,304.0,165.0,54.3,56.0,26.0,19.7,3.0,0.99,2.0
 Finance and Insurance,Financial and Investment Analysts,5.0,178.0,102.0,57.3,63.0,30.3,12.4,1.0,0.56,1.0
@@ -20,7 +20,7 @@ Retail Trade,First-Line Supervisors of Retail Sales Workers,5.0,165.0,99.0,60.0,
 Information,Producers and Directors,5.0,194.0,122.0,62.9,58.5,32.0,5.2,1.0,0.52,1.0
 Finance and Insurance,"Securities, Commodities, and Financial Services Sales Agents",5.0,231.0,151.0,65.4,63.5,22.9,11.7,2.0,0.87,2.0
 Government,Compliance Officers,5.0,168.0,110.0,65.5,66.2,22.6,11.9,0.0,0.0,0.0
-"Professional, Scientific, and Technical Services",Computer and Information Systems Managers,5.0,304.0,201.0,66.1,65.4,22.0,11.8,4.0,1.32,1.0
+"Professional, Scientific, and Technical Services",Computer and Information Systems Managers,5.0,304.0,201.0,66.1,65.4,22.0,11.8,0.0,0.0,0.0
 Real Estate and Rental and Leasing,Real Estate Sales Agents,5.0,204.0,137.0,67.2,71.3,27.0,5.9,0.0,0.0,0.0
 Government,Recreation Workers,5.0,222.0,150.0,67.6,67.2,27.0,5.4,1.0,0.45,1.0
 Government,Administrative Services Managers,5.0,171.0,120.0,70.2,66.4,21.1,8.8,0.0,0.0,0.0

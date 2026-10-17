@@ -1,0 +1,300 @@
+108-051	1	0	FACT	
+108-053	1	0	FACT	
+108-055	1	0	FACT	
+108-056	1	0	FACT	
+108-060	1	0	FACT	
+109-019	1	0	FACT	
+109-036	0	0	QUAL	
+109-041	1	0	FACT	BORDERLINE: 'fairness opinion' keyword but negotiation record paraphrasable
+110-026	1	0	FACT	BORDERLINE: keyword examples given but drawing callouts need interpretation
+110-036	2	0	FMT	
+111-045	2	0	FMT	
+111-050	0	0	QUAL	
+111-068	0	0	OPEN	BORDERLINE: specific property named but effect explanation is open
+111-073	1	0	FACT	
+112-011	2	0	VAL	BORDERLINE: any fluid property value with units, regex-checkable
+113-012	0	0	OPEN	
+113-014	2	0	VAL	
+113-030	1	0	FACT	
+113-032	2	0	FACT	
+114-015	2	0	VAL	
+114-023	1	0	VAL	BORDERLINE: cross-checking shank diameters against collets needs parsing steps
+114-050	2	0	FACT	
+115-032	2	0	FACT	BORDERLINE: annual review interval keyword-matchable
+117-004	0	0	OPEN	
+117-005	1	0	FMT	
+117-019	2	0	VAL	
+117-020	2	0	FACT	
+119-027	1	0	FACT	
+120-001	2	0	FMT	
+120-024	1	0	FMT	
+120-025	2	0	VAL	
+120-032	1	0	FMT	
+120-038	1	0	FACT	
+121-004	2	0	FMT	
+122-021	2	0	FMT	
+122-023	2	0	FMT	
+122-037	2	0	FACT	BORDERLINE: 'attached' keyword in specific email
+123-020	2	0	VAL	
+123-035	2	0	FMT	
+124-004	2	0	FACT	
+124-015	2	0	FMT	
+124-027	2	0	FMT	
+125-002	2	0	FACT	
+125-010	0	0	QUAL	
+126-024	1	0	FACT	
+127-035	1	0	VAL	BORDERLINE: value in JPG chart requires image reading
+128-040	0	0	OPEN	
+129-017	2	0	FACT	
+129-027	1	0	FACT	
+129-037	1	0	FACT	
+129-043	2	0	FACT	
+129-054	2	0	FACT	
+129-068	2	0	FMT	
+130-021	2	0	FACT	
+130-023	0	0	OPEN	BORDERLINE: any quantitative age-group comparison qualifies
+130-024	0	0	OPEN	BORDERLINE: any quantitative morbidity outcome with citation qualifies
+131-021	1	0	FACT	
+131-042	1	0	FMT	
+132-006	1	0	FACT	
+132-009	2	0	FACT	
+132-010	2	0	FACT	
+132-030	2	0	VAL	
+133-003	2	0	FMT	
+133-005	2	1	ORD	SOAP sections presented in order S, O, A, P
+133-050	2	0	FACT	
+133-064	0	0	QUAL	
+134-005	2	0	FACT	BORDERLINE: duration 2-3 years keyword/number matchable
+134-012	2	0	FACT	
+134-025	2	0	VAL	
+134-042	2	0	FACT	
+134-053	2	0	VAL	
+134-058	2	0	FMT	
+135-008	2	0	VAL	
+135-009	2	0	VAL	
+135-011	2	0	FMT	
+135-015	2	0	VAL	
+136-029	2	0	VAL	
+136-039	2	0	FACT	
+136-051	2	0	VAL	
+137-010	2	0	FMT	
+137-017	2	0	FMT	
+137-019	2	0	FMT	
+137-021	2	0	VAL	
+137-037	2	0	VAL	
+137-041	2	0	VAL	
+138-019	2	0	VAL	
+138-024	2	0	VAL	
+138-049	2	0	FACT	
+139-024	2	0	VAL	
+139-028	2	0	VAL	
+139-029	2	0	VAL	
+140-000	2	0	FMT	
+140-015	1	0	VAL	BORDERLINE: any rate acceptable; must identify it as ordinary income rate used
+140-027	1	0	FACT	
+140-028	1	0	FACT	
+140-038	2	0	FACT	BORDERLINE: standard disclaimer phrase, short keyword list
+141-006	1	0	FACT	
+142-000	2	0	FMT	
+142-015	1	0	FACT	
+142-025	1	0	FACT	
+142-040	1	0	VAL	
+142-053	1	0	FACT	
+142-068	1	0	FACT	
+143-026	2	0	FACT	
+144-000	2	0	FMT	
+144-015	2	0	VAL	
+145-010	2	0	FMT	
+145-012	2	0	ORD	BORDERLINE: form header position, treated as form-field arrangement
+147-007	2	0	FACT	
+147-036	0	0	QUAL	
+148-006	1	0	FACT	BORDERLINE: duration value determinate but unstated; phrasing varies
+148-025	1	0	FACT	
+149-017	2	0	VAL	
+150-037	2	0	ORD	
+152-032	2	0	FMT	
+153-001	2	0	FMT	
+153-040	1	0	FACT	BORDERLINE: specified characterization but judging it is interpretive
+155-040	1	0	FMT	
+155-046	2	0	FACT	
+156-021	1	0	FACT	
+156-037	1	0	FACT	
+157-006	2	0	FACT	
+157-034	2	0	FACT	
+158-005	2	0	FACT	
+158-037	2	0	FMT	
+159-014	2	1	ORD	agenda slide lists deck sections in exact prescribed order
+159-030	2	1	FMT	BORDERLINE: Current Focus section positioned at slide 7 in deck sequence
+159-037	1	0	FACT	
+160-010	2	0	VAL	
+160-038	2	0	VAL	
+160-051	0	0	QUAL	
+161-005	2	0	FMT	
+162-004	2	0	FMT	
+162-012	1	0	FACT	
+163-004	1	0	FMT	BORDERLINE: section existence defined by topic, not literal heading
+163-028	1	0	FACT	
+163-042	2	0	FACT	BORDERLINE: resource names given in prompt, matchable within section
+164-032	2	0	FACT	BORDERLINE: amenity keyword list given
+165-000	2	0	FMT	
+165-002	1	0	FMT	
+165-004	2	0	FACT	
+165-015	0	0	OPEN	BORDERLINE: generated script content type; tailoring is judgment
+165-019	2	0	FMT	BORDERLINE: section presence, heading keywords cadence/follow-up
+165-043	1	0	FMT	
+166-010	2	0	VAL	
+166-012	2	0	VAL	
+166-022	1	0	FACT	
+167-000	2	0	FMT	
+168-010	1	0	FACT	
+168-027	2	0	FMT	
+169-001	2	0	FACT	
+169-014	2	0	VAL	
+169-045	2	0	FACT	
+170-000	2	0	FMT	
+170-009	1	0	FACT	
+170-011	1	0	FACT	
+170-018	1	0	FACT	
+170-022	1	0	FACT	
+170-039	1	0	FACT	
+171-006	2	0	FMT	
+171-015	2	0	FACT	
+172-004	2	0	VAL	
+172-006	2	0	VAL	
+172-013	2	0	VAL	
+172-023	2	0	VAL	
+172-045	2	0	VAL	
+173-028	2	0	FMT	
+174-018	0	0	OPEN	
+174-023	0	0	OPEN	
+174-024	0	0	OPEN	
+176-019	1	0	FACT	BORDERLINE: URL/ID mechanical but representation note needs reading
+176-027	2	0	FACT	
+177-008	2	0	FMT	
+177-009	2	0	FMT	
+177-020	2	0	FMT	
+177-046	2	0	VAL	
+177-047	0	0	QUAL	
+178-004	2	0	FACT	
+179-006	2	0	VAL	
+179-009	2	0	VAL	
+179-015	1	0	FMT	
+179-017	0	0	OPEN	BORDERLINE: rationale is open though vendors and IDs must be named
+179-022	2	0	VAL	
+179-039	2	0	FACT	
+179-040	2	0	FACT	
+180-008	2	1	ORD	SBAR headings top-to-bottom in order S, B, A, R
+180-011	2	0	FMT	
+180-020	1	0	FMT	
+181-005	2	0	FMT	
+181-018	1	0	FACT	
+181-037	1	0	FACT	
+182-000	2	0	FMT	
+183-013	2	0	FMT	
+184-011	2	0	FACT	
+184-027	2	0	VAL	
+184-028	2	0	VAL	
+184-030	2	0	FMT	
+185-029	2	0	FACT	BORDERLINE: count of OTC wart ingredients, short keyword list
+186-007	2	0	FMT	
+186-011	2	0	FMT	
+186-030	1	0	FACT	
+187-020	1	0	FACT	
+187-025	1	0	FACT	
+188-005	2	0	FMT	
+188-010	2	0	FACT	
+188-019	2	0	FACT	
+188-051	2	0	FACT	
+188-054	2	0	FACT	
+188-063	2	0	FACT	
+189-005	2	0	FMT	BORDERLINE: table rows for Amlodipine presence
+189-015	2	0	VAL	
+189-017	2	0	VAL	
+189-019	2	0	VAL	
+189-031	2	0	VAL	
+190-009	0	0	OPEN	
+191-028	2	0	VAL	
+192-032	1	0	FMT	BORDERLINE: capability list required; examples non-binding
+192-036	1	0	FMT	BORDERLINE: capability list required; examples non-binding
+193-016	0	0	OPEN	
+193-019	1	0	FACT	
+194-038	1	0	FACT	
+194-043	2	0	FACT	BORDERLINE: calendar vs business days keywords
+195-002	2	0	FMT	BORDERLINE: distinct Stock orders section presence
+195-015	1	0	FACT	
+196-000	2	0	FMT	
+196-001	2	0	FACT	
+196-044	2	0	VAL	
+196-051	2	0	VAL	
+196-061	2	0	FMT	
+197-004	2	0	VAL	
+197-022	2	0	VAL	
+197-034	2	0	FMT	
+197-058	2	0	FMT	
+198-013	2	0	VAL	
+198-048	2	0	VAL	
+199-031	2	0	VAL	BORDERLINE: competitive set chosen by author; value recomputable
+199-040	2	0	VAL	
+200-021	2	0	FACT	
+200-028	2	0	FACT	
+200-048	2	0	FACT	
+201-007	2	0	FMT	BORDERLINE: presence of Tier 1 (<1,000 units) pricing
+201-010	2	0	VAL	
+201-014	2	0	VAL	
+201-026	2	0	VAL	
+201-038	2	0	VAL	
+201-044	2	0	VAL	
+202-011	2	0	FMT	
+202-015	2	0	FMT	
+202-038	2	0	VAL	
+202-044	2	0	VAL	
+203-008	2	0	ORD	BORDERLINE: reference process sequence fidelity, domain content not narrative
+203-010	2	0	FACT	BORDERLINE: needle-free keyword list, equivalents allowed
+203-019	0	0	OPEN	
+203-022	0	0	OPEN	
+203-024	0	0	OPEN	
+204-001	2	0	VAL	
+204-008	2	0	VAL	
+204-011	2	0	VAL	
+205-006	2	0	VAL	
+205-016	2	0	FMT	
+205-039	1	0	FACT	
+205-041	2	0	FACT	BORDERLINE: Federal Reserve keyword in outlook context
+205-045	2	0	FACT	
+207-016	2	0	FMT	
+208-004	2	0	FACT	
+208-007	2	0	FACT	BORDERLINE: ESG/CSV keywords, equivalent phrasing allowed
+208-008	1	0	FACT	
+208-024	2	0	VAL	
+209-037	2	0	FACT	
+210-001	2	0	FMT	
+210-003	2	0	FMT	
+210-010	2	0	VAL	
+210-015	2	0	VAL	
+210-044	2	0	FMT	
+210-047	2	0	VAL	
+210-059	2	0	VAL	
+210-080	2	0	VAL	
+211-022	1	0	FACT	
+211-029	1	0	FACT	
+211-041	2	0	FACT	BORDERLINE: static-shielding bag keyword
+211-047	1	0	FACT	
+212-005	2	0	VAL	
+212-042	2	0	FMT	
+214-017	2	0	FMT	
+214-020	2	0	FMT	
+214-032	2	0	VAL	
+214-049	2	0	FACT	
+214-052	2	0	VAL	
+216-019	1	0	FACT	
+217-005	2	0	FMT	
+218-003	2	0	FMT	
+218-012	2	0	FMT	
+218-026	2	0	FMT	
+218-036	2	0	FACT	
+218-054	2	0	FACT	
+219-013	1	0	FACT	
+219-029	2	0	FMT	
+219-040	1	0	FACT	
+219-042	2	0	FACT	BORDERLINE: retry/backoff keyword
+219-045	2	0	FMT	
